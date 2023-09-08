@@ -3,7 +3,7 @@ This script is designed to automate the process of swiping right on all profiles
 
 ## Usage
 
-1. Login to your tinder account on your computer (preferrable chrome browser).
+1. Login to your tinder account on your computer (preferably chrome browser).
 2. Open dev tools by pressing F12 key or Ctrl + Shift + I and go to console tab.
 3. Paste the contents of [tinderAutoLiker.js](https://github.com/amitoj-singh/tinder-auto-liker/blob/main/tinderAutoLiker.js) and hit enter.
 4. Reload your page to stop the script.
