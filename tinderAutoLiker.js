@@ -1,4 +1,4 @@
-//
+//https://github.com/amitoj-singh/tinder-auto-liker/
 setInterval(
   function () {
     //select right swipe button element and fire a click event
