@@ -1,4 +1,4 @@
-# tinder-auto-liker
+# Tinder Auto Liker
 This script is designed to automate the process of swiping right on all profiles on Tinder.
 
 ## Usage
