@@ -29,11 +29,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 
 ## Contributing
 
-Contributions and feature requests are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test thoroughly.
-4. Commit your changes with clear and concise commit messages.
-5. Push your changes to your fork.
-6. Create a pull request with a detailed description of your changes.
+Contributions and feature requests are welcome! If you'd like to contribute to this project, please follow instructions on [contributing](contributing.md).
